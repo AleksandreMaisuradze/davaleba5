@@ -1,0 +1,54 @@
+ /* Start Header  */
+ .main_header {
+     width: 1440px;
+     background-color: #2A9D8F;
+     padding: 38px 130px;
+     margin: 0 auto;
+ }
+
+ .header_logo {
+     vertical-align: middle;
+ }
+
+ .main_header_nav {
+     margin-inline: 357px;
+     display: inline-block;
+     vertical-align: middle;
+ }
+
+ .header_li {
+     display: inline-block;
+ }
+
+ .active {
+     margin-inline: 31px;
+ }
+
+ .li_text {
+     font-family: Nerko One;
+     font-size: 20px;
+     font-weight: 400;
+     line-height: 30px;
+     letter-spacing: 0.005em;
+     color: #FFFFFF;
+
+ }
+
+ .header_div {
+     background-color: #FFFFFF;
+     display: inline-block;
+     vertical-align: middle;
+ }
+
+ .header_button {
+     font-family: Poppins;
+     font-size: 20px;
+     font-weight: 600;
+     line-height: 30px;
+     letter-spacing: 0.005em;
+     color: #2A9D8F;
+     border: 0;
+     padding: 8px 16px;
+ }
+
+ /* Start Article  */
