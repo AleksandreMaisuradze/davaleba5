@@ -178,3 +178,53 @@
  }
 
  /* Start Footer  */
+ .footer_1 {
+     width: 1440px;
+     margin: 0 auto;
+     background-color: #2A9D8F;
+     padding: 90px 130px 148px;
+ }
+
+ .footer.icon {
+     vertical-align: top;
+ }
+
+ .footer_div {
+     margin-left: 634px;
+     vertical-align: top;
+     display: inline-block;
+ }
+
+ .small_div {
+     display: inline-block;
+ }
+
+ .active_3 {
+     margin-inline: 38px;
+ }
+
+ .footer_nav {
+     margin-top: 17px;
+
+ }
+
+ .footer_title {
+     font-family: Poppins;
+     font-size: 20px;
+     font-weight: 500;
+     line-height: 30px;
+     letter-spacing: 0.005em;
+     color: #FFFFFF;
+
+ }
+
+ .nav_list {
+     font-family: Poppins;
+     font-size: 17px;
+     font-weight: 400;
+     line-height: 27px;
+     letter-spacing: 0.005em;
+     color: #FFFFFF;
+
+
+ }
